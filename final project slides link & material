@@ -98,3 +98,109 @@ Next Steps:
 Implement key usability and accessibility enhancements.
 Conduct iterative testing with target users to validate improvements.
 Regularly monitor user engagement and gather feedback for continuous refinement.
+
+Project Outline
+Title: HCI Evaluation of AbilityHub: A Digital Caregiving Tool
+Introduction:
+The intersection of social and digital health is redefining caregiving with new products like the AbilityHub app. With caregivers juggling multiple responsibilities, digital solutions are critical for coordination, support, and effective care delivery. This project evaluates AbilityHub from an HCI perspective to improve usability, accessibility, and user engagement.
+Objectives:
+Evaluate AbilityHub's design, presentation, and ease of use.
+Analyze user needs and pain points through personas and competitive benchmarking.
+Provide actionable recommendations for improving user experience.
+Methodology:
+Conduct usability testing (via heuristic evaluation and user feedback).
+Create personas based on the primary user groups.
+Perform a competitive analysis comparing AbilityHub with similar products.
+Use HCI frameworks like Norman’s Principles of Design and WCAG guidelines for accessibility.
+Analysis Framework:
+Usability: How intuitive is the interface?
+Accessibility: Does the app cater to users with diverse abilities?
+Aesthetics: Is the design clean and engaging?
+Engagement: How well does the app keep users motivated and involved?
+Deliverables:
+Preliminary analysis findings.
+Competitive analysis of similar apps.
+Personas representing key user groups.
+A final case study and recommendations.
+
+Preliminary Analysis
+User Flow:
+Current State: The navigation flow is cluttered with redundant options. Adding a task, for instance, requires navigating three separate menus.
+Improvement Suggestions:
+Consolidate the task creation process into one streamlined menu.
+Introduce shortcuts for frequent actions like adding reminders.
+Interface Design:
+Strengths: Minimalistic layout with a focus on caregiving-related functions.
+Weaknesses:
+Inconsistent use of icons and labels.
+Limited visual hierarchy, making it difficult to prioritize key actions.
+Recommendations:
+Standardize iconography and use consistent, intuitive labeling.
+Highlight key actions with larger buttons or distinct colors.
+Ease of Use:
+Issue: Non-tech-savvy users report difficulty locating features.
+Solution: Implement a guided tutorial during onboarding.
+Accessibility:
+Gaps:
+No support for screen readers or high-contrast mode.
+Small text sizes limit usability for visually impaired users.
+Action Plan:
+Adhere to WCAG standards (e.g., resizable text, alt text for icons).
+Introduce high-contrast themes.
+
+
+Key Insights:
+Strengths of Competitors:
+CareZone excels in family sharing and accessibility.
+Wellframe combines care coordination with advanced analytics.
+Opportunities for AbilityHub:
+Improve accessibility.
+Incorporate features like family sharing or data analytics.
+
+
+
+Personas
+Persona 1: Maria Lopez – The Full-Time Caregiver
+Age: 34
+Role: Primary caregiver for her elderly mother.
+Tech Savviness: Moderate
+Goals:
+Efficiently coordinate her caregiving schedule.
+Track medication and appointments.
+Pain Points:
+Overwhelming task load.
+Difficulty managing schedules across devices.
+Needs:
+Simplified navigation.
+Cross-platform functionality.
+Persona 2: James Patel – The Remote Supporter
+Age: 45
+Role: Provides financial and emotional support to his sister’s caregiving.
+Tech Savviness: High
+Goals:
+Stay informed about caregiving updates.
+Offer assistance remotely when needed.
+Pain Points:
+Lack of real-time updates.
+Difficulty accessing shared information.
+Needs:
+Collaborative tools (e.g., shared task lists, messaging).
+Notifications for urgent updates.
+
+Final Analysis and Case Study
+Key Findings:
+Strengths:
+Minimalist design with a focus on caregiving tasks.
+Initial attempts at social network integration.
+Weaknesses:
+Poor accessibility features.
+Inefficient navigation for key tasks.
+Recommendations:
+Introduce screen reader support and resizable text for accessibility.
+Implement a guided onboarding tutorial.
+Add family-sharing features for collaborative caregiving.
+Enhance visual hierarchy to emphasize urgent or frequent actions.
+Conclusion:
+AbilityHub has potential but requires significant improvements in usability, accessibility, and engagement. With these changes, it can become a leading solution in the digital caregiving space.
+
+
